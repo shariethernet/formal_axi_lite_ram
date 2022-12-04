@@ -1,9 +1,4 @@
-# ----------------------------------------
-#  Copyright (c) 2017 Cadence Design Systems, Inc. All Rights
-#  Reserved.  Unpublished -- rights reserved under the copyright 
-#  laws of the United States.
-# ----------------------------------------
-
+# -- Jasper Gold TCL File
 # Analyze design under verification files
 
 
